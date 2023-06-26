@@ -1,4 +1,9 @@
 def main():
+    celcius = int(input("Celcius: "))
+    fahrenheit = (9/5) * celcius + 32
+
+    print(fahrenheit)
+    
     """
     ##################################################
     # Comlete your code here
